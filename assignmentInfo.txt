@@ -1,0 +1,27 @@
+TEAM NINE 3/4 OUR API:
+https://hp-api.herokuapp.com/
+
+Team membership: GitHub account
+Ashley	Gutierrez: ashrhea1986
+Christopher	Hunley: cman0493 
+Ruth	Gough: ruthegough5
+Amber	Jackson
+
+DUE BY THURSDAY (November 18th)
+
+Use the API assigned to your team in the attached spreadsheet to create a webpage that uses that API (NOTE: If you would like to use an API that is not on the attached spreadsheet you are welcome to. However, you must decide by the start of class on Monday November 8th)
+
+
+What to complete today (Thursday November 4)...
+1. Get everyone in your group added to a GitHub repository (It can even just be a test one and not the one for your actual project)
+2. Get everyone in your group added to a Trello board (Also, add the "Team Check-In/Helper Person" for your team to your Trello board. See the "Teams for Projects" spreadsheet in Google Classroom)
+
+Few pieces of advice...
+1. Plan out your project before you start building/coding it out (Example: Figure out the layout of the webpage)
+2. Focus on the important core features before trying to add any extra features (Example: Figuring out how to access the data you want before deciding what you are going to use it for)
+3. Break things down into smaller tasks and complete them one at a time (Example: Instead of trying to complete a task like "Style the webpage" try to complete a task like "Style the header section")
+4. COMMUNICATE! Make sure to communicate with your team so that everyone is not working on the same things.
+
+When finished, have one person from your group paste the link to your GitHub repository page in the form below
+
+Also, during class on Friday (November 19th) each group will present their project on the Google Meet
