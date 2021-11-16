@@ -21,6 +21,10 @@ a {
     text-decoration: none;
     color: #4b5163;
 }
+p {
+    color: white;
+    font-size: large;
+}
 #main {
     position: relative;
     height: 100vh;
