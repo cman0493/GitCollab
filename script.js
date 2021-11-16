@@ -1,7 +1,3 @@
-function getData() {
-    const response = await fetch('http://hp-api.herokuapp.com/api/character')
-    const data = await response.json()
-  }
 var data = JSON.parse(this.response)
 
 data.forEach(Character => {
