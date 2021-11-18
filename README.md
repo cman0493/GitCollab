@@ -6,13 +6,9 @@ Team Nine are: (name: account)
 
 Team membership: GitHub account
 
-Ashley	Gutierrez: ashrhea1986
-
 Christopher	Hunley: cman0493 
 
 Ruth Gough: ruthegough5
-
-Amber Jackson:
 
 We are creating a web-friendly API with JavaScript, Git, Trello, ChromeDev, and Slack.
 
