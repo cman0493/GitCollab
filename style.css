@@ -9,21 +9,27 @@ body {
     line-height: 1.5;
 }
 h1 {
-    font-weight: 700;
-    font-size: 60px;
+    font-family: 'Futura';
+    font-weight: 550;
+    font-size: 25px;
     line-height: 1;
     margin-bottom: 20px;
     z-index: 1;
-    color:white;
+    color:rgb(230,165,110);
     padding: 14% 0 0 0;
+    text-shadow: 6px 6px 6px rgb(39,34,28), 0 0 2em gray, 0 0 3em silver;
+
 }
 a {
     text-decoration: none;
     color: #4b5163;
 }
 p {
-    color: white;
-    font-size: large;
+    font-weight: 700;
+    font-size: 50px;
+    color:rgb(230,165,110);
+    text-shadow: 4px 4px 4px rgb(39,34,28), 0 0 2em gray, 0 0 3em; 
+    /* font-size: large; */
 }
 #main {
     position: relative;
@@ -81,6 +87,15 @@ p {
     padding: 50px;
     text-align: center;
 }
+/* Begin Ticket Box */
+img {
+    width: 200px;
+  }
+  
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+
 .topnav {
     overflow: hidden;
     z-index: 2;
