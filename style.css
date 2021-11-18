@@ -65,6 +65,7 @@ p {
     background-size: cover;
     text-align: center;
 }
+
 #root {
     max-width: 1200px;
     margin: 0 auto;
@@ -87,7 +88,7 @@ p {
     padding: 50px;
     text-align: center;
 }
-/* Begin Ticket Box */
+/* Ticket Box */
 img {
     width: 200px;
   }
